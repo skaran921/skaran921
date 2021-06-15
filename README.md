@@ -15,3 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=skaran921&layout=compact&theme=dracula" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaran921&layout=compact&theme=react&count_private=false" />
+
+![Niloy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=skaran921&theme=vision-friendly-dark)
+
