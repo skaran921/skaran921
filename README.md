@@ -19,9 +19,10 @@ Here are some ideas to get you started:
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=skaran921&layout=compact&theme=dracula" />
+[![karan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skaran921)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skaran921&layout=compact&theme=react&count_private=false" />
 
-![Niloy's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=skaran921&theme=vision-friendly-dark)
+![karan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=skaran921&theme=vision-friendly-dark)
 
